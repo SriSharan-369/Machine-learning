@@ -1,1 +1,1 @@
-# Machine-learning
+# SONAR Rock vs Mine Prediction using Logistic Regression 
